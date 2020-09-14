@@ -21,3 +21,21 @@ configure username and password
 git config --global user.name githubusername
 git config --global user.password githubpassword
 
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Team members
+============
+Avishka
+Kalana
+Thirisika
+Thuvaraka
+Rukshan
+
+
+Software Requirements
+=====================
+
+objectives
+====================
+
+
