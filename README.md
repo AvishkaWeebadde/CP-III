@@ -20,6 +20,7 @@ configure username and password
 
 git config --global user.name githubusername
 git config --global user.password githubpassword
+<<<<<<< HEAD
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -39,3 +40,8 @@ objectives
 ====================
 
 
+=======
+=================================================
++++++++++++++++++++++++++++++++++++++++++++++++++
+-------------------------------------------------
+>>>>>>> phys
